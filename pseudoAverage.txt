@@ -1,0 +1,48 @@
+program starts
+
+int avg_pos = 0
+int pos_integers = 0
+int avg_neg = 0
+int neg_integers = 0
+
+print(" Please enter an integer ")
+
+int integer
+userInput( integer)
+
+while( integer does not equal 0){
+   if ( integer > 0)
+    avg_pos equals avg_pos + integer
+    pos_integers equals pos_integers +1;
+    
+
+    if(integer <0)
+        avg_neg equals avg_neg + integer;
+        neg_integers equals neg_integer + 1
+    
+
+    print(" Please enter an integer ")
+    user input (integer)
+
+
+
+if (avg_pos greater than or equal to 1)
+
+    print("This is the average of all the postive numbers: ")
+    int avg = (avg_pos / pos_iintegers)
+    print(avg)
+
+
+
+if (neg less than 0)
+    print("This is the average of all the negative numbers: ");
+     int avg2 = (avg_neg / neg_integers);
+     print(avg2);
+
+
+
+
+
+
+
+program ends

@@ -1,0 +1,80 @@
+\\TPS 1
+1.Record your TPS partners’ names.
+Joseph Ocampo
+Vicent Filipinas
+
+2. Independently search the internet for 3 online tutorials on how to use Linux terminal.
+ 
+
+3. Share your tutorials with your TPS partners.
+me
+https://youtu.be/SkB-eRCzWIU
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+https://www.howtogeek.com/140679/beginner-geek-how-to-start-using-the-linux-terminal/
+
+
+Vicent
+https://www.laptopmag.com/articles/use-bash-shell-windows-10
+https://www.youtube.com/watch?v=SkB-eRCzWIU
+https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
+
+
+
+Joseph
+https://linuxcommand.org/index.php
+https://www.linux.com/training-tutorials/how-use-linux-command-line-basics-cli/
+
+
+4. Bookmark your results in the browser of your computer.
+
+\\TPS 2
+1. How can you open a terminal from your Linux computer?
+ On my computer you can open a linux terminal by pressing Ctrl + Alt + T
+
+a. Can you open more than 1 terminal at the same time?
+On visual studo I am able to open multiple terminals by clicking on the button "new terminal". you can also do it by presing Ctrl + Alt + T three times
+
+b. Why do you think you want to open more than 1 terminal at the same time?
+The reason why you open multiple terminals at once is to run different codes at once.
+
+2. In the terminal, how can you tell what are contents inside the current directory (i.e., what is the
+command)?
+The way to check the contents inside the current drectory is by typing lower case l and lower case s in the terminal.
+
+3. From your current directory, how can you navigate to Desktop directory?
+
+Lab 01: Introduction to C
+CSE-031-01 Points: 20
+
+4. While you are in Desktop, create a new directory called CSE31. How do you do this?
+
+
+
+TPS 3
+
+1.Independently find 2 online references on how to use GCC in a Linux terminal.
+
+2. Share what you have found with your partners and save your results in the bookmark of your browser.
+You will refer to these references to answer the following questions.
+
+3. What command do you type in the terminal to compile your main.c?
+to complie your main.c you type gcc main.c followed by -o main
+
+4. How do you know if your program has compiled successfully?
+we know it complied correctly if it doesnt give us an error
+
+5. What does the –c flag do in gcc?
+it complies the code or assembles the source file
+
+
+6. What does the –g flag do in gcc?
+it tells the complier to generate debugging information
+
+7. How do you change the executable name from main to cselab1?
+we can change the executable name by typing -o flag
+
+8. What happens when you compile your code by typing gcc main.c only?
+it will wont fully complie since we didnt add -o main
+
+9. Now, let us run the program you have just compiled. What command do you use?
+to run the code we type ./main
